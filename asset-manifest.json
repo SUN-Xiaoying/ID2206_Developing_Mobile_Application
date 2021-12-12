@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ID2206_Developing_Mobile_Application/static/css/main.2b7438e1.chunk.css",
+    "main.js": "/ID2206_Developing_Mobile_Application/static/js/main.7252fb97.chunk.js",
+    "main.js.map": "/ID2206_Developing_Mobile_Application/static/js/main.7252fb97.chunk.js.map",
+    "runtime-main.js": "/ID2206_Developing_Mobile_Application/static/js/runtime-main.d02018b5.js",
+    "runtime-main.js.map": "/ID2206_Developing_Mobile_Application/static/js/runtime-main.d02018b5.js.map",
+    "static/css/2.3d311b1a.chunk.css": "/ID2206_Developing_Mobile_Application/static/css/2.3d311b1a.chunk.css",
+    "static/js/2.59fd5d4f.chunk.js": "/ID2206_Developing_Mobile_Application/static/js/2.59fd5d4f.chunk.js",
+    "static/js/2.59fd5d4f.chunk.js.map": "/ID2206_Developing_Mobile_Application/static/js/2.59fd5d4f.chunk.js.map",
+    "index.html": "/ID2206_Developing_Mobile_Application/index.html",
+    "static/css/2.3d311b1a.chunk.css.map": "/ID2206_Developing_Mobile_Application/static/css/2.3d311b1a.chunk.css.map",
+    "static/css/main.2b7438e1.chunk.css.map": "/ID2206_Developing_Mobile_Application/static/css/main.2b7438e1.chunk.css.map",
+    "static/js/2.59fd5d4f.chunk.js.LICENSE.txt": "/ID2206_Developing_Mobile_Application/static/js/2.59fd5d4f.chunk.js.LICENSE.txt",
+    "static/media/Logo.6af7f559.png": "/ID2206_Developing_Mobile_Application/static/media/Logo.6af7f559.png",
+    "static/media/700.css": "/ID2206_Developing_Mobile_Application/static/media/open-sans-vietnamese-700-normal.f7029b9d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d02018b5.js",
+    "static/css/2.3d311b1a.chunk.css",
+    "static/js/2.59fd5d4f.chunk.js",
+    "static/css/main.2b7438e1.chunk.css",
+    "static/js/main.7252fb97.chunk.js"
+  ]
+}
